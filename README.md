@@ -69,7 +69,7 @@ Use Cases:
 - Manage property  
 - Checkout & payment  
 
-![Booking Use Case]()  
+![Booking Use Case](./alx-booking-uc.png) 
 
 ---
 
